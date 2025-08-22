@@ -18,4 +18,7 @@ The system allows management of clients and users with banking operations, provi
 - **Language:** C++  
 - **Paradigm:** Procedural programming  
 - **Data Storage:** Text files  
-- **Platform:** Console application (Windows / Linux)  
+- **Platform:** Console application (Windows / Linux)
+
+### 📝 Note  
+This project is part of the *08 - Algorithms & Problem Solving Level 4 by Programming Advices (Mohamed AbouHadhood)**.
